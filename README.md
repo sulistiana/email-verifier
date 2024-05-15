@@ -21,7 +21,7 @@
 Use `go get` to install this package.
 
 ```shell script
-go get -u github.com/AfterShip/email-verifier
+go get -u github.com/sulistiana/email-verifier
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ package main
 import (
 	"fmt"
 	
-	emailverifier "github.com/AfterShip/email-verifier"
+	emailverifier "github.com/sulistiana/email-verifier"
 )
 
 var (
